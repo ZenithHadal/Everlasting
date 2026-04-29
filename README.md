@@ -1,9 +1,13 @@
-# Everlasting
+# EVERLASTING
+# Mod for 1.21.1 (FABRIC)
 
-## Setup
+## Plans:
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+1 - Pyrorita, Custom ore for the mod;
+ - Forged by alloying gold and netherrack together in a new workstation.
 
-## License
+2 - Glasses of Rita, allows the user to see others HP, crafted with gold, pyrorita, and glass. (COMPAT WITH TRINKETS)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+3 - The Neverlasting, A custom dimension (purgatory-like):
+ - Made of bridges in a white void, with several towers as "points" (connecting the sections of the bridges)
+ - Take doctor4t's Final NEVEREND layer, for example

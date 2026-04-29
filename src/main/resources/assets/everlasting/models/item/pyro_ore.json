@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer1:": "everlasting:item/pyro_ore"
+  }
+}

@@ -1,5 +1,6 @@
 package com.everlasting;
 
+import com.everlasting.block.ModBlocks;
 import com.everlasting.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,6 +15,7 @@ public class Everlasting implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }

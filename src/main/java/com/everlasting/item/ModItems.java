@@ -10,7 +10,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
-    public static final Item PYRORITA = registerItem("pyro_ore", new Item(new Item.Settings()));
+    public static final Item PYRORITA = registerItem("pyrorita", new Item(new Item.Settings()));
 
 
 

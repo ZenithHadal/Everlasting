@@ -4,7 +4,7 @@
 ## Plans:
 
 1 - Pyrorita, Custom ore for the mod;
- - Forged by alloying gold and netherrack together in a new workstation.
+ - Forged by alloying gold and netherrack together in a blast furnace.
 
 2 - Glasses of Rita, allows the user to see others HP, crafted with gold, pyrorita, and glass. (COMPAT WITH TRINKETS)
 

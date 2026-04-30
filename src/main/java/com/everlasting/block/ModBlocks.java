@@ -14,8 +14,13 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
 
+    // -----------------------------------------------------------------------------------------------------------------
+
     public static final Block VOID_BRICKS = registerBlock("void_bricks", new Block(AbstractBlock.Settings.create()
-            .strength(4f).requiresTool().sounds(BlockSoundGroup.STONE)));
+            .strength(5000000).requiresTool().sounds(BlockSoundGroup.STONE).hardness(50000)));
+
+
+    // -----------------------------------------------------------------------------------------------------------------
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

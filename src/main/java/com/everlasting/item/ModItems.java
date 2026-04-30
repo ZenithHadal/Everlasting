@@ -11,9 +11,14 @@ import net.minecraft.util.Rarity;
 
 public class ModItems {
 
-    public static final Item PYRORITA = registerItem("pyrorita", new Item(new Item.Settings().rarity(Rarity.EPIC).fireproof()));
+    // -----------------------------------------------------------------------------------------------------------------
+
+    public static final Item PYRORITA = registerItem("pyrorita", new Item(new Item.Settings().rarity(Rarity.UNCOMMON).fireproof()));
 
 
+
+
+   // ------------------------------------------------------------------------------------------------------------------
 
 
 

@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model:": "everlasting:block/void_bricks"
+      "model": "everlasting:block/void_bricks"
     }
   }
 }
